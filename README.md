@@ -23,7 +23,7 @@ This project is a simple webpage for an entertainment music based platform creat
   git clone https://github.com/VishnuVijayaraj03/Simple-Music-Website.git
 
 2. Go to the directory
-3. Run the inde html file
+3. Run the music html file
 
 ## Screenshots
 
