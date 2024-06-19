@@ -21,13 +21,17 @@ This project is a simple webpage for an entertainment music based platform creat
 1. Clone the repository:
   ```bash
   git clone https://github.com/VishnuVijayaraj03/Simple-Music-Website.git
+
 2. Go to the directory
 3. Run the inde html file
 
 
 ![image](https://github.com/VishnuVijayaraj03/Simple-Music-Website/assets/173230096/9fea2e14-a4e6-4123-bd3d-b7ceebb1341d)
+
 ![image](https://github.com/VishnuVijayaraj03/Simple-Music-Website/assets/173230096/d11b4210-b7cd-4385-82f2-5933005cf189)
+
 ![image](https://github.com/VishnuVijayaraj03/Simple-Music-Website/assets/173230096/3d0aa629-b03b-43b4-9899-f0cadeb374f8)
+
 ![image](https://github.com/VishnuVijayaraj03/Simple-Music-Website/assets/173230096/d92b2559-579d-4a7e-af2d-300619866ebe)
 
 https://github.com/VishnuVijayaraj03/Simple-Music-Website/assets/173230096/33c758cd-3448-4573-84af-ee1b62cd83f2
