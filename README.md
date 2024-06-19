@@ -17,9 +17,9 @@ This project is a simple webpage for an entertainment music based platform creat
 - HTML
 - CSS
 
-## Installation Screenshot
+## Installation 
 1. Clone the repository:
-  ```bash
+  
   git clone https://github.com/VishnuVijayaraj03/Simple-Music-Website.git
 
 2. Go to the directory
