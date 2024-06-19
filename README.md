@@ -25,6 +25,7 @@ This project is a simple webpage for an entertainment music based platform creat
 2. Go to the directory
 3. Run the inde html file
 
+## Screenshots
 
 ![image](https://github.com/VishnuVijayaraj03/Simple-Music-Website/assets/173230096/9fea2e14-a4e6-4123-bd3d-b7ceebb1341d)
 
